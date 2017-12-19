@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/allysonwilson/.android/build-cache/c7680013954a069a3c57017fa226f3ba66368718/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/allysonwilson/.android/build-cache/28794e9bf1eb7dd2111bdc5cb0ca57285ad7e0fc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/allysonwilson/.android/build-cache/e8cc6633238c0def3c60eeaad4e7782985bbc7b3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/allysonwilson/.android/build-cache/1c3597647a933f8883896445d2162ec29ab4e998/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/allysonwilson/.android/build-cache/c19354a7ffba91619dd3576e26416937cdf13a2b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/allysonwilson/.android/build-cache/aec93b3143746175e416c8a6397d04d66c702675/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/allysonwilson/.android/build-cache/6fc49c721df1d20274b0143010738e34cf58cdf0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/allysonwilson/.android/build-cache/2ae165c14aba1453822d41dd117efbf826865331/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml:11:9-40
+uses-sdk
+INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/allysonwilson/.android/build-cache/c7680013954a069a3c57017fa226f3ba66368718/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/allysonwilson/.android/build-cache/28794e9bf1eb7dd2111bdc5cb0ca57285ad7e0fc/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/allysonwilson/.android/build-cache/e8cc6633238c0def3c60eeaad4e7782985bbc7b3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/allysonwilson/.android/build-cache/1c3597647a933f8883896445d2162ec29ab4e998/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/allysonwilson/.android/build-cache/c19354a7ffba91619dd3576e26416937cdf13a2b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/allysonwilson/.android/build-cache/aec93b3143746175e416c8a6397d04d66c702675/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/allysonwilson/.android/build-cache/6fc49c721df1d20274b0143010738e34cf58cdf0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/allysonwilson/.android/build-cache/2ae165c14aba1453822d41dd117efbf826865331/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/allysonwilson/.android/build-cache/c7680013954a069a3c57017fa226f3ba66368718/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/allysonwilson/.android/build-cache/28794e9bf1eb7dd2111bdc5cb0ca57285ad7e0fc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/allysonwilson/.android/build-cache/e8cc6633238c0def3c60eeaad4e7782985bbc7b3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/allysonwilson/.android/build-cache/1c3597647a933f8883896445d2162ec29ab4e998/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/allysonwilson/.android/build-cache/c19354a7ffba91619dd3576e26416937cdf13a2b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/allysonwilson/.android/build-cache/aec93b3143746175e416c8a6397d04d66c702675/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/allysonwilson/.android/build-cache/6fc49c721df1d20274b0143010738e34cf58cdf0/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/allysonwilson/.android/build-cache/2ae165c14aba1453822d41dd117efbf826865331/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/AndroidManifest.xml:26:9-47

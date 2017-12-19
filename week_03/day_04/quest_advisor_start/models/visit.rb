@@ -1,0 +1,63 @@
+require_relative("../db/sql_runner")
+require_relative("./user")
+require_relative("./location")
+
+class Visit
+
+  attr_reader :id
+  attr_accessor :user_id, :location_id, :review
+
+  def initialize( options )
+    @id = options['id'].to_i
+    @user_id = options['user_id'].to_i
+    @location_id = options['location_id'].to_i
+    @review = options['review']
+  end
+
+  def save()
+    sql = "INSERT INTO visits
+    (
+      user_id,
+      location_id,
+      review
+    )
+    VALUES
+    (
+      $1, $2, $3
+    )
+    RETURNING id;"
+    values = [@user_id, @location_id, @review]
+    visit = SqlRunner.run( sql,values ).first
+    @id = visit['id'].to_i
+  end
+
+  def self.all()
+    sql = "SELECT * FROM visits"
+    values = []
+    visits = SqlRunner.run(sql, values)
+    result = visits.map { |visit| Visit.new( visit ) }
+    return result
+  end
+
+  def self.delete_all()
+    sql = "DELETE FROM visits"
+    
+  end
+
+  def user()
+    sql = " SELECT * FROM users WHERE id = $1;"
+    values = [@user_id]
+    SqlRunner.run(sql, values)
+    return User.new(result[0])
+  end
+
+  def location()
+    sql = " SELECT * FROM users WHERE id = $1;
+    "
+    values = [@location_id]
+    result = SqlRunner.run(sql, values)
+    return Location.new(result[0])
+
+  end
+
+end

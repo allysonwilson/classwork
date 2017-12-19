@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/078c0b11df479aac9ec3d28af515c2ffa7da8690/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/5d96572f67adbcdbb15481b32700a2397197c62a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/60c5c694c69253f66d35dc6bf7381eaa36869e8e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/d88ab096034b34cfeb1de96cdf69e22c3ca9e156/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/cd276f5d6c9ca8a6d54badbfbdd71d4102f0d417/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/4055c5aadf7e21ec1896f31de70a886a9e4fe5af/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/65cfd5f2ae1e47b147314c232e28be971af7ef6e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/22763a7106b369011d521bb97c02b80609ab6197/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/022b7ae664e7164f14497a8c84a03e16f3e6909a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml:11:9-40
+uses-sdk
+INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/078c0b11df479aac9ec3d28af515c2ffa7da8690/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/5d96572f67adbcdbb15481b32700a2397197c62a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/60c5c694c69253f66d35dc6bf7381eaa36869e8e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/d88ab096034b34cfeb1de96cdf69e22c3ca9e156/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/cd276f5d6c9ca8a6d54badbfbdd71d4102f0d417/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/4055c5aadf7e21ec1896f31de70a886a9e4fe5af/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/65cfd5f2ae1e47b147314c232e28be971af7ef6e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/22763a7106b369011d521bb97c02b80609ab6197/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/022b7ae664e7164f14497a8c84a03e16f3e6909a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/078c0b11df479aac9ec3d28af515c2ffa7da8690/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_3/athlete_10k_homework/GenericsLab/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/078c0b11df479aac9ec3d28af515c2ffa7da8690/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/5d96572f67adbcdbb15481b32700a2397197c62a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/60c5c694c69253f66d35dc6bf7381eaa36869e8e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/d88ab096034b34cfeb1de96cdf69e22c3ca9e156/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/cd276f5d6c9ca8a6d54badbfbdd71d4102f0d417/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/4055c5aadf7e21ec1896f31de70a886a9e4fe5af/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/65cfd5f2ae1e47b147314c232e28be971af7ef6e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/22763a7106b369011d521bb97c02b80609ab6197/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/022b7ae664e7164f14497a8c84a03e16f3e6909a/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/078c0b11df479aac9ec3d28af515c2ffa7da8690/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/allysonwilson/.android/build-cache/078c0b11df479aac9ec3d28af515c2ffa7da8690/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/allysonwilson/codeclan_work/e15_classnotes/week_07/day_2/Dependency_Inversion_Before/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/allysonwilson/.android/build-cache/be973eb3099624255c29ab539010845c795ac7c5/output/res/layout-v21/notification_action.xml"
+    }
+]

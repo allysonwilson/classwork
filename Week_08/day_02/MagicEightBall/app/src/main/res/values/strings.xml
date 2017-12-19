@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MagicEightBall</string>
+    <string name="shake_button_text">Shake</string>
+    <string name="hint">Enter Question</string>
+    <string name="action_toast_title">Here\'s a toast</string>
+    <string name="secret_message">Not the marmite!</string>
+    <string name="secret_label">not</string>
+</resources>
